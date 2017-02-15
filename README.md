@@ -3,7 +3,7 @@
 # Steps to use
 * clone this repo
 * npm install
-* Install the required cordova plugins
+* Install the required cordova plugins (ionic state restore)
 * Then ```ionic build android``` or ```ionic build ios```
 
 # Based on Ionic 2 Beta 10
